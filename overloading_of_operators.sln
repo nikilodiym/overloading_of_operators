@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "overloading_of_operators", "overloading_of_operators.csproj", "{1AEB37C1-2B58-4222-9E4B-23484866775F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AEB37C1-2B58-4222-9E4B-23484866775F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AEB37C1-2B58-4222-9E4B-23484866775F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AEB37C1-2B58-4222-9E4B-23484866775F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AEB37C1-2B58-4222-9E4B-23484866775F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83941685-D14F-4713-BA52-C158E565B291}
+	EndGlobalSection
+EndGlobal
